@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36804.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmUrbanPark", "FrmUrbanPark\FrmUrbanPark.csproj", "{EB027DD0-2DFD-4A8F-8FC0-3DAC7728C9F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackUrbanPark", "BackUrbanPark\BackUrbanPark.csproj", "{51479A96-21AB-47A9-A1D5-58AE3571A91E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EB027DD0-2DFD-4A8F-8FC0-3DAC7728C9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB027DD0-2DFD-4A8F-8FC0-3DAC7728C9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB027DD0-2DFD-4A8F-8FC0-3DAC7728C9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51479A96-21AB-47A9-A1D5-58AE3571A91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51479A96-21AB-47A9-A1D5-58AE3571A91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51479A96-21AB-47A9-A1D5-58AE3571A91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51479A96-21AB-47A9-A1D5-58AE3571A91E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
